@@ -1,3 +1,1 @@
-# MachineLearning
-
-Programs using Machine Learning
+Projetos de Machine Learning em python para aprendizado
